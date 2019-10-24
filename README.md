@@ -1,0 +1,1 @@
+30 different apps using JavaScript to keep practicing my skills
